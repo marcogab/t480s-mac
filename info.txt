@@ -1,0 +1,2 @@
+sali de: https://github.com/kekkokk/t480s_hackintosh_opencore
+Problemas: se demora en apagar y prender
